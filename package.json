@@ -1,6 +1,6 @@
 {
   "name": "@dpenciso/dgm-3780-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to convert strings into new strings and numbers into strings",
   "main": "index.js",
   "scripts": {
