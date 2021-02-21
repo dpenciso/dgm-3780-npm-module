@@ -1,0 +1,19 @@
+{
+  "name": "@dpenciso/dgm-3780-npm-package",
+  "version": "1.0.0",
+  "description": "A package to convert strings into new strings and numbers into strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Fill in"
+  },
+  "keywords": [
+    "String",
+    "Number"
+  ],
+  "author": "David Enciso",
+  "license": "MIT"
+}
